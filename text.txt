@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 66F1-518E
+
+ Directory of C:\Users\PascalMary\Desktop\Project Folder
+
+04/18/2022  09:23 PM    <DIR>          .
+04/18/2022  09:15 PM    <DIR>          ..
+04/18/2022  09:22 PM               129 Project
+04/15/2022  12:58 PM             5,427 Project 3.py
+04/18/2022  09:23 PM                 0 text.txt
+               3 File(s)          5,556 bytes
+               2 Dir(s)  470,374,068,224 bytes free
